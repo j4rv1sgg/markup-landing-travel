@@ -241,7 +241,7 @@ body {
   gap: 40px;
 }
 .destination__img {
-  background-image: url('../img/1.png');
+  background-image: url('./img/1.png');
   height: 330px;
   width: 250px;
   position: relative;
@@ -270,13 +270,13 @@ body {
   font-weight: 400;
 }
 .destination__img:nth-child(2) {
-  background-image: url('../img/2.png');
+  background-image: url('./img/2.png');
 }
 .destination__img:nth-child(3) {
-  background-image: url('../img/3.png');
+  background-image: url('./img/3.png');
 }
 .destination__img:nth-child(4) {
-  background-image: url('../img/4.png');
+  background-image: url('./img/4.png');
 }
 .guides {
   display: flex;
